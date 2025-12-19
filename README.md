@@ -8,3 +8,9 @@ Author: DJ Choi
 Developed over a series of Code Club episodes led by Pat Schloss to answer 
 an important question inmicrobiology and develop comfort using tools to 
 develop reproducible research practices.  
+
+
+Dependencies:
+mothur v.1.48.4
+
+
